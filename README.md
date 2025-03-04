@@ -37,3 +37,4 @@ The following models have been tested on this benchmark:
 Feel free to contribute by testing new LLMs and submitting their results. Please follow the standard testing procedure and document your findings.
 
 
+# ai-benchmark
