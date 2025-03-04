@@ -31,14 +31,9 @@ The following models have been tested on this benchmark:
 1. **Claude 3.5 Sonnet (3.5)** - `sonnet-35.py`
 2. **Claude 3.7 Sonnet (3.7)** - `sonnet-37.py`
 3. **Claude 3.7 Sonnet Thinking (3.7)** - `sonnet-37-thinking.py`
-4. **OpenAI GPT-4** - `o1.py`
-
-### Comparative Analysis
-(Detailed analysis and comparison of each model's performance will be added here)
+4. **OpenAI GPT-o1** - `o1.py`
 
 ## Contributing
 Feel free to contribute by testing new LLMs and submitting their results. Please follow the standard testing procedure and document your findings.
 
-## License
-[Add your preferred license here]
 
